@@ -38,3 +38,9 @@ a {
   box-shadow: 0 0 400px 10px #000;
   border: 2px solid rgba(0,0,0,0.75);
 }
+
+.note {
+  font-size: 24px;
+  font-style: italic;
+  line-height: 1.6em;
+}
